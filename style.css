@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+  width: 100%;
+  padding-top: 80px;
+  background-color: #1f1f1f;
+  font-size: 30px;
+}
+
+ul{
+  margin-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+ul li{
+  list-style: none;
+  color: wheat;
+}
+
+ul li a{
+  display: block;
+  color: #e0e0e0;
+  padding: 0 15px;
+}
